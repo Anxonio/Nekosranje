@@ -1,0 +1,23 @@
+login_layout
+-PalinText(usename/email,password)
+-TextView(username/email,password,tvTitle)
+-Button(Login)
+signup_layout 
+-PlainText(username,name,surname,email,password,city,tel_num)
+-TextView(tvTitle,username,name,surname,email,password,city,tel_num)
+-Button(Sign_up)
+Main_layout
+-drawer menu
+	-setting
+	-profile????
+	-izgubljeno(izgubljene stvari)
+	-nađeno(nadene stvari)
+	-razgovori????
+-settings
+	-dark mode
+	-languge
+	-velicina slova
+	-music/sfx(ako toga uopce bude)
+-najnovije taj dan?????
+	-izgubljeno
+	-nadeno
