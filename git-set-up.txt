@@ -1,0 +1,9 @@
+nova mapa (mapa ne smi bi prazna)
+prominit na path te mape u cmd/git
+moraju se prvo prihvatit zahtjevi za kolaboraciju
+cmd/git git init
+cmd/git git add .
+cmd/git git commit -m "[neka poruka]"
+cmd/git git branch -M [ime branche(ne smi se ponavljat)]
+cmd/git git remote add origin git@github.com:[username djeljitelja]/[ime repositorija].git
+cmd/git git push -u origin [ime branche]
