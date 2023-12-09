@@ -1,1 +1,2 @@
-mrzim rasizam
+PC=1001
+IR=B8
