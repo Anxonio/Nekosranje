@@ -1,0 +1,11 @@
+FIREBASE 
+-user_id,username,name,surname,city,passwordhash,email,tel_num
+-item_id,item_type,city,where,when,time,date,user_id,username,img_src
+-meet_id,user_id_lost,user_id_found,item_id,where_meet,when_meet,date_meet
+
+-get from login(user_id,username,name,surname,city,passwordhash,email,tel_num)
+-get from uploading founded item(item_id,item_type,city,where,when,time,date,user_id,username,img_src)
+-get when founded and lost "meet"(meet_id,user_id_lost,user_id_found,item_id,where_meet,when_meet,date_meet)
+-get values from BP when searched.
+-send values from app to BP.
+-get verification email/number code.
